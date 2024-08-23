@@ -25,8 +25,8 @@ This Go application sets up a basic web server using the Gin framework and expos
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/prometheus-gin.git
-   cd prometheus-gin
+   https://github.com/Jugalpurplease/prometheus-grafana.git
+   cd prometheus-grafana
    ```
 
 2. **Configure Prometheus**
